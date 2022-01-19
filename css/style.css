@@ -1,0 +1,134 @@
+/* -------------------------
+       Google Fonts Link
+--------------------------- */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700&display=swap");
+
+/* -------------------------
+       Common Css
+--------------------------- */
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	box-sizing: border-box;
+	color: #3e3e3e;
+}
+
+.btn-color {
+	background-image: linear-gradient(to right, #a4bc46, #85a019);
+	color: #fff;
+	font-weight: 500;
+	padding: 8px 15px;
+	text-transform: uppercase;
+}
+
+.btn-color:hover {
+	background-image: linear-gradient(to right, #85a019, #a4bc46);
+	color: #fff;
+}
+
+h1 {
+	font-family: "Bebas Neue", cursive;
+	font-weight: 400;
+	color: #363958;
+}
+
+.section-title {
+	font-family: "Bebas Neue", cursive;
+	font-size: 48px;
+	color: #363958;
+	margin-bottom: 30px;
+}
+
+/* -------------------------
+       Header Section Css
+--------------------------- */
+header {
+	background-color: #fffbf0;
+}
+.navbar-nav .nav-item {
+	margin-left: 30px;
+}
+
+#banner {
+	padding-bottom: 100px;
+}
+
+.banner-title {
+	font-size: 80px;
+	color: #fabe4c;
+}
+
+.banner-title span {
+	display: block;
+	color: #363958;
+}
+
+/* -------------------------
+       Woman Product Css
+--------------------------- */
+#womans {
+	padding: 80px 0;
+}
+.product-content {
+	padding: 20px;
+	border: 1px solid #ebebeb;
+	border-radius: 10px;
+}
+.product-img {
+	background-color: #f1f1f1;
+	text-align: center;
+	padding: 15px 20px;
+	border-radius: 15px;
+}
+
+.product-tile {
+	margin-top: 18px;
+	font-size: 24;
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+}
+
+.price {
+	font-family: "Roboto", sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	color: #fabe4c;
+}
+/* -------------------------
+       Shop Css
+--------------------------- */
+#shop {
+	padding: 80px 0;
+}
+
+.shop-content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+	box-shadow: 1px 1px 30px #e8e8e8;
+	border-radius: 20px;
+}
+
+.shop-img {
+	width: 80px;
+	margin-right: 10px;
+}
+
+.shop-details {
+	padding-right: 20px;
+	margin-top: 25px;
+}
+/* -------------------------
+       Common Css
+--------------------------- */
+/* -------------------------
+       Common Css
+--------------------------- */
+/* -------------------------
+       Common Css
+--------------------------- */
+/* -------------------------
+       Common Css
+--------------------------- */
