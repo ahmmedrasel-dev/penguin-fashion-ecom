@@ -46,6 +46,10 @@ h1 {
 header {
 	background-color: #fffbf0;
 }
+
+.navbar-brand {
+	width: 250px;
+}
 .navbar-nav .nav-item {
 	margin-left: 30px;
 }
@@ -84,7 +88,7 @@ header {
 
 .product-tile {
 	margin-top: 18px;
-	font-size: 24;
+	font-size: 22px;
 	font-family: "Roboto", sans-serif;
 	font-weight: 700;
 }
